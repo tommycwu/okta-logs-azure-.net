@@ -8,7 +8,7 @@ using Newtonsoft.Json.Linq;
 using Microsoft.ApplicationInsights;
 using Microsoft.ApplicationInsights.Extensibility;
 
-namespace FunctionAppChevronPOC
+namespace AzureFunctionApp
 {
     public  class FunctionInsights
     {

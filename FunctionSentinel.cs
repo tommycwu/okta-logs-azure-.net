@@ -11,7 +11,7 @@ using Newtonsoft.Json.Linq;
 using Microsoft.Azure.WebJobs;
 using Microsoft.Extensions.Logging;
 
-namespace FunctionAppChevronPOC
+namespace AzureFunctionApp
 {
     public class FunctionSentinel
     {
